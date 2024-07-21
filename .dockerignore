@@ -1,0 +1,7 @@
+.idea/
+.git/
+Dockerfile
+docker-compose.yml
+*.iml
+.run
+.env*
