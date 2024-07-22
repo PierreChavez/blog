@@ -5,3 +5,4 @@ docker-compose.yml
 *.iml
 .run
 .env*
+.jetclient
