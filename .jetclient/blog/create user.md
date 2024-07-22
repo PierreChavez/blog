@@ -11,13 +11,13 @@ value = 'multipart/form-data'
 
 [[body.formData]]
 key = 'password'
-value = '12345'
+value = '1234567867'
 
 [[body.formData]]
 key = 'username'
-value = 'pierre34'
+value = 'pierre3456ggrr'
 
 [[body.formData]]
 key = 'email'
-value = 'test@exampl.com'
+value = 'testeee@examplrtt.com'
 ```
